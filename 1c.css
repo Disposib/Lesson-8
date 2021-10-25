@@ -1,0 +1,61 @@
+.picture{
+    background: url("https://ptici.info/assets/components/phpthumbof/cache/seriy_gus.18176db1094c57fa245ab89941e7a0fb.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 250px;
+    height: 350px;
+    display: flex;
+    margin: 15px;
+}
+.block{
+    background-color: gray;
+}
+.body{
+    flex-wrap: nowrap;
+    flex-direction: row;
+}
+.text{
+    height: 15px;
+    font-size: 25px;
+}
+
+.body{
+    display: flex;
+}
+.body2{
+    display: flex;
+}
+.body3{
+    display: flex;
+}
+.head{
+    font-size: 25px;
+    padding: 10px;
+}
+.small{
+    display: block;
+}
+.main{
+    background-color:gray;
+}
+.height1{
+    display: block;
+}
+.headfull{
+    text-align: center;
+    font-size: 30px;
+}
+.blue{
+    background-color:blue;
+    width: 800px;
+    height: 200px;
+    display: flex;
+    border-radius: 10%;
+}
+.img{
+    width: 50px;
+}
+.flex{
+    display: flex;
+}
